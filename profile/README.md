@@ -1,7 +1,7 @@
 &nbsp;
 <p align="center">
   <a href="https://www.arenasolutions.com" target="_blank">
-    <img src="Arena_Green-White_x2000.png" alt="Arena" width="200px">
+    <img src="https://github.com/ptc-arena/.github/blob/main/Arena_Green-White_x2000.png" alt="Arena" width="200px">
   </a>
 </p>
 &nbsp;
