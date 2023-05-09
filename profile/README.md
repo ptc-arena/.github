@@ -15,7 +15,7 @@
 </p>
 <p align="center">
   Welcome to the Arena API and Integration Development GitHub! 
-  &nbsp;
+ <br />
   If you are a developer - at a partner or customer - this space is for you.
 </p>
 
