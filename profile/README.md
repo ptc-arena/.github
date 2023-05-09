@@ -22,11 +22,11 @@
 
 # GitHub Orientation
 
-???
+The PTC-Arena GitHub is an open organization with multiple public repositories for people who develop using the Arena API or integrate to Arena platform using integration methods Arena provides, including ERP Exchange, EDA Exchange, Data Extract, and the Integration Engine. As we build out the space, the repositories will expand to provide documentation, examples, and guides related to these various integration methods. <br />
 
 ### Contributors & developers
 
-For anyone wishing to contribute to this GitHub, we recommend ??
+For anyone wishing to contribute to this GitHub, first go to the Discussion area. Read previous discussion threads and then post your questions or ideas.
 
 &nbsp;
 
