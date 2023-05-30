@@ -36,6 +36,14 @@ For anyone wishing to contribute to this GitHub, first go to the Discussion area
 # Getting help
 
 You can find answers to a huge variety of questions in the documentation and guides provided here. 
+If you need Arena Support help, please submit a help ticket from your Arena Workspace, Help, Send us Feedback or email arena-support@ptc.com. If you need help with an API-related issue, please submit the following: <br />
+<ul><li>Endpoint (i.e. POST /items/_guid_/bom)</li>
+  <li>Submit body (JSON that is being submitted, if any)</li>
+  <li>Response code (400, 200, etc.)</li>
+  <li>Response body (JSON that is being returned, if any)</li>
+  <li>Workspace Id</li>
+  <li>User email</li> </ul>
+  <br />
 
 To stay up to date with all the latest news and product updates, make sure you [subscribe to our blog](https://www.arenasolutions.com/blog/). :saxophone::turtle:
 
