@@ -30,6 +30,15 @@ For anyone wishing to contribute to this GitHub, first go to the Discussion area
 
 &nbsp;
 
+# 👋 Discussions!
+  We’re using Discussions as a place to connect with members of our community. We hope that you:
+  * Ask questions you’re wondering about.
+  * Share ideas.
+  * Engage with other community members.
+  * Welcome others and are open-minded. Remember that this is a community we
+  build together 💪.
+
+  To get started, go to Discussions and post an introduction of yourself and tell us about what you do with Arena / Arena's Developer Platform and this community.
 
 &nbsp;
 
