@@ -58,6 +58,9 @@ To stay up to date with all the latest news and product updates, make sure you [
 
 &nbsp;
 
+# Further reading
+<ul><li><a href="https://skills.github.com/">GitHub Skills</a></li>
+
 # Copyright & license
 
 Copyright (c) 2023 Arena, a PTC Business - Released under the [MIT license](LICENSE). Arena Solutions and the Arena Logo are trademarks of PTC, Corporation.
