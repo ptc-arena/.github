@@ -60,6 +60,8 @@ To stay up to date with all the latest news and product updates, make sure you [
 
 # Further reading
 <ul><li><a href="https://skills.github.com/">GitHub Skills</a></li>
+</ul>
+<br />
 
 # Copyright & license
 
