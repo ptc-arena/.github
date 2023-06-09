@@ -6,6 +6,7 @@ We love your input! We want to make contributing to this project as easy and tra
 - Submitting a fix
 - Submitting code snippets and examples
 - Proposing new features
+- Proposing new endpoints
 
 ## We Develop with Github
 We use github to host our API documents and code samples, to track issues and feature requests, as well as accept pull requests. 
