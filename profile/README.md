@@ -19,20 +19,15 @@
   If you are a developer - at a partner or customer - this space is for you.
 </p>
 
-
 # GitHub Orientation
 
 The PTC-Arena GitHub is an open organization with multiple public repositories for people who develop using the Arena API or integrate to Arena platform using integration methods Arena provides, including ERP Exchange, EDA Exchange, Data Extract, and the Integration Engine. As we build out the space, the repositories will expand to provide documentation, examples, and guides related to these various integration methods. <br />
 
-# Contributors & developers
+## Contributors & developers
 
 For anyone wishing to contribute to this GitHub, please read our [Contributor Information Page](https://github.com/ptc-arena/.github/blob/main/contributing.md) and visit our [Discussion area](https://github.com/orgs/ptc-arena/discussions). Read previous discussion threads and then post your questions or ideas. 
 
-### To Submit Code Samples / Snippets
-
-&nbsp;
-
-# 👋 Discussions!
+## 👋 Discussions!
   We’re using Discussions as a place to connect with members of our community. We hope that you:
   * Ask questions you’re wondering about.
   * Share ideas.
@@ -42,9 +37,7 @@ For anyone wishing to contribute to this GitHub, please read our [Contributor In
 
   To get started, go to Discussions and post an introduction of yourself and tell us about what you do with Arena / Arena's Developer Platform and this community.
 
-&nbsp;
-
-# Getting help
+## Getting help
 
 You can find answers to a huge variety of questions in the documentation and guides provided here. 
 If you need Arena Support help, please submit a help ticket from your Arena Workspace, Help, Send us Feedback or email arena-support@ptc.com. If you need help with an API-related issue, please submit the following: <br />
@@ -60,12 +53,12 @@ To stay up to date with all the latest news and product updates, make sure you [
 
 &nbsp;
 
-# Further reading
+## Further reading
 <ul><li><a href="https://skills.github.com/">GitHub Skills</a></li>
 </ul>
 <br />
 
-# Copyright & license
+## Copyright & license
 
 Copyright (c) 2023 Arena, a PTC Business - Released under the [MIT license](LICENSE). Arena Solutions and the Arena Logo are trademarks of PTC, Corporation.
 
