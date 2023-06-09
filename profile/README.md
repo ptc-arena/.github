@@ -26,9 +26,9 @@ The PTC-Arena GitHub is an open organization with multiple public repositories f
 
 # Contributors & developers
 
-For anyone wishing to contribute to this GitHub, first go to the Discussion area. Read previous discussion threads and then post your questions or ideas.
+For anyone wishing to contribute to this GitHub, please read our [Contributor Information Page](https://github.com/ptc-arena/.github/blob/main/contributing.md) and visit our [Discussion area](https://github.com/orgs/ptc-arena/discussions). Read previous discussion threads and then post your questions or ideas. 
 
-###To Submit Code Samples / Snippets
+### To Submit Code Samples / Snippets
 
 &nbsp;
 
