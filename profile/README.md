@@ -1,10 +1,8 @@
-&nbsp;
 <p align="center">
-  <a href="https://www.arenasolutions.com" target="_blank">
-    <img src="https://github.com/ptc-arena/.github/blob/main/Arena_Green-White_x2000.png" alt="Arena" width="200px">
-  </a>
+Welcome to the Arena API and Integration Development GitHub! 
+ <br />
+  If you are a developer - at a partner or customer - this space is for you.
 </p>
-&nbsp;
 
 <p align="center">
     <a href="https://www.arenasolutions.com">Arena</a> •
@@ -13,11 +11,7 @@
     <a href="https://twitter.com/arenasolutions">Twitter</a>
     <br /><br />
 </p>
-<p align="center">
-  Welcome to the Arena API and Integration Development GitHub! 
- <br />
-  If you are a developer - at a partner or customer - this space is for you.
-</p>
+
 
 # GitHub Orientation
 
