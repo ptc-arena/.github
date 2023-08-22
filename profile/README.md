@@ -15,7 +15,7 @@ Welcome to the Arena API and Integration Development GitHub!
 
 # GitHub Orientation
 
-The PTC-Arena GitHub is an open organization with multiple public repositories for people who develop using the Arena API or integrate to Arena platform using integration methods Arena provides, including ERP Exchange, EDA Exchange, Data Extract, and the Integration Engine. As we build out the space, the repositories will expand to provide documentation, examples, and guides related to these various integration methods. <br />
+The PTC-Arena GitHub is an open organization with multiple public repositories for people who develop using the Arena API or integrate to the Arena platform using integration methods Arena provides, including the low-code Integration Engine, experimental API-based tools, and Data Extract. As we build out the space, the repositories will expand to provide documentation, examples, and guides related to these various integration methods. <br />
 
 ## Contributors & developers
 
