@@ -5,10 +5,11 @@ Welcome to the Arena API and Integration Development GitHub!
 </p>
 
 <p align="center">
+    <a href="https://ptc-arena.github.io/arena-dev-help/">Arena API Help Center</a> •
     <a href="https://www.arenasolutions.com">Arena</a> •
     <a href="https://www.linkedin.com/company/arena-solutions/posts/?feedView=all">LinkedIn</a> •
     <a href="https://www.youtube.com/user/Arenasolutions">YouTube</a> •
-    <a href="https://twitter.com/arenasolutions">Twitter</a>
+    <a href="https://x.com/arenasolutions">X</a>
     <br /><br />
 </p>
 
